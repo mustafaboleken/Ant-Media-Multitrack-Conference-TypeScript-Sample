@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "BOLA",
   "license": "ISC",
   "dependencies": {
     "@antmedia/webrtc_adaptor": "^2.7.1-SNAPSHOT-2023-Nov-22-15-57"
